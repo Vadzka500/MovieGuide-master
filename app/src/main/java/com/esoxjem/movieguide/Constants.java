@@ -1,8 +1,6 @@
 package com.esoxjem.movieguide;
 
-/**
- * @author arun
- */
+
 public class Constants
 {
 

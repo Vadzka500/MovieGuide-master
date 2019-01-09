@@ -13,9 +13,7 @@ import com.esoxjem.movieguide.listing.sorting.SortingModule;
 
 import io.realm.Realm;
 
-/**
- * @author arun
- */
+
 public class BaseApplication extends Application
 {
     private AppComponent appComponent;

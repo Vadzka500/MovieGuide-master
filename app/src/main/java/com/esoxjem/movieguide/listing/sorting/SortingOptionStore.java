@@ -5,9 +5,7 @@ import android.content.SharedPreferences;
 
 import javax.inject.Inject;
 
-/**
- * @author arun
- */
+
 public class SortingOptionStore
 {
     private SharedPreferences pref;

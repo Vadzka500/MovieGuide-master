@@ -6,9 +6,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author arun
- */
+
 class FavoritesInteractorImpl implements FavoritesInteractor
 {
     private FavoritesStore favoritesStore;
